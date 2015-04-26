@@ -18,5 +18,7 @@ According to these inputs, some gift categories will be suggested and when the u
 I am using two data sources for my app.
 One is a local database for gift category suggessions and ebay for product suggetions.
 
+I have uploaded my initial UI designs.
+
 
 
